@@ -10,7 +10,7 @@ import os
 import setuptools
 
 setuptools.setup(
-    name='branches_models',
+    name='branch_models',
     version='1.0.0',
     packages=setuptools.find_packages(),
     # scripts=['makemigrations.py','migrate.py']
