@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'branch_models.apps.BranchesConfig',
+    'branch_models.apps.BranchConfig',
     # Filter
     'django_admin_listfilter_dropdown',
 ]
