@@ -35,6 +35,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # django rest-framework
+    'rest_framework',
     # branch
     'branch_models.apps.BranchConfig',
     # Filter
