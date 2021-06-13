@@ -23,7 +23,9 @@ venv.bak/
 # requirements.txt
 
 # Files
+media/photos/characters/
 
 # Dummy Files
 .DS_Store
 .idea/
+.vscode/settings.json
