@@ -36,7 +36,7 @@ def update(sender, instance, **kwargs):
         pass
     else:
         if instance.updated_date is None:
-            instance.updated_date = DateTime.datenow()
+            instance.updated_date = datetime.dnow()
 
 # @receiver(post_delete, sender=OrderProduct)
 # def delete(sender, instance, using, **kwargs):
